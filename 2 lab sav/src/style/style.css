@@ -1,0 +1,37 @@
+table {
+border-collapse: collapse;
+width:80%;
+}
+td {
+	border: 1px solid black;
+	padding: 10px;
+	text-align: center;
+	background-color: YellowGreen;
+}
+.text-block {
+	font-size:30px;
+	padding-top: 80px;
+}
+th{
+	border: 3px solid black;
+	background-color: DarkOliveGreen;
+	padding: 10px;
+	text-align: center;
+}
+td:hover{
+	background-color: DarkSeaGreen;
+}
+th:hover{
+	background-color: Olive;
+}
+.Title{
+	font-family: cursive;
+	text-align: center;
+	color: DeepSkyBlue;
+	font-size: 55px;
+	font-weight: bold;
+	padding-top: 30px;
+}
+.bg{
+	background-color: LightBlue;
+}
